@@ -1,2 +1,3 @@
 gitshell
 1.git initで初期設定
+2.git add .→git commit -am ""でフォルダの中すべてをコミット(a...すべて,m...コメント)
